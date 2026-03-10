@@ -40,7 +40,7 @@ Hi 👋 I'm Nabhshek Kumar
 🎓 Education
 
 🎓 BCA – Cybersecurity & Digital Forensics
-Babu Banarasi Das University, Lucknow (2025–2028)
+Babu Banarasi Das University (2025–2028)
 
 📚 Class XII – UP Board (2025) – 56%
 📚 Class X – UP Board (2020) – 59.60%
@@ -125,6 +125,12 @@ Python (Basic) • HTML • CSS
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/cybersecuritywithnabhi/cybersecuritywithnabhi/output/github-contribution-grid-snake.svg"/>
-</p>
+</p>---
+
+<details>
+<summary>🔒 View Source Code</summary>Created by Nabhshek Kumar
+Cybersecurity | Digital Forensics | OSINT
+
+</details>---
 
 ⭐ Cybersecurity learner exploring OSINT, digital forensics and ethical hacking.
