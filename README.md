@@ -8,8 +8,7 @@ Hi 👋 I'm Nabhshek Kumar
 
 🔐 About Me
 
-🎓 BCA (Cybersecurity & Digital Forensics) Student
-🏫 Babu Banarasi Das University, Lucknow
+(Cybersecurity & Digital Forensics)
 
 💻 Passionate about:
 
@@ -25,7 +24,7 @@ Hi 👋 I'm Nabhshek Kumar
 
 🌐 Connect With Me
 
-<p align="center"><a href="https://www.instagram.com/cybersecurity_with_nabhi">
+<p align="center"><a href="https://www.instagram.com/nabhi_4nsic">
 <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a><a href="https://t.me/cybersecurity_with_nabhi">
 <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -38,9 +37,6 @@ Hi 👋 I'm Nabhshek Kumar
 </a></p>---
 
 🎓 Education
-
-🎓 BCA – Cybersecurity & Digital Forensics
-Babu Banarasi Das University (2025–2028)
 
 📚 Class XII – UP Board (2025) – 56%
 📚 Class X – UP Board (2020) – 59.60%
